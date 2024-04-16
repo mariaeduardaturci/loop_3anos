@@ -6,12 +6,23 @@ h3 {color: gold;
 }
 h1 {border:solid 3px yellow;
 }
+h2 {border:solid 3px yellow;
+}
+h3 {border:solid 3px yellow;
+}
+h1 {font-size: 300%;
+}
 h1 {text-align: center;
 }
 h2 {text-align: center;
 }
 h3 {text-align: center;
 }
+#img3 {margin-left: 60%;
+}
+#img3 {width: 40%;
+}
+
 body {background-color: rgb(0, 0, 0);}
 #texto-animado {
     font-family: 'Arial', sans-serif;
